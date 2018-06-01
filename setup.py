@@ -1,3 +1,5 @@
+from setuptools import setup
+
 setup(name='priorityscheduler',
       version='0.1',
       description='Priority Queue to schedule custom jobs',
