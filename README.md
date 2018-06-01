@@ -39,4 +39,4 @@ while not pq.empty():
 
 # Authors/Contributors
 
-[*] Tom Orth [TomOrth](https://www.github.com/TomOrth)
+* Tom Orth [TomOrth](https://www.github.com/TomOrth)
